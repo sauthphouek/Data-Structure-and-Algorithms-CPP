@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sauth.p/Desktop/Data-Structure-and-Algorithms-CPP",
+      "program": "/Users/sauth.p/Desktop/Data-Structure-and-Algorithms-CPP/build/Debug/outDebug"
+    }
+  ]
+}
